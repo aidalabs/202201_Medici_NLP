@@ -1,7 +1,7 @@
 # **Lectures**
 ---
 ## 1. Python
-- [파이썬 기초 (1)](01_Python/01_Python_Basics_01.ipynb)
+- [파이썬 기초 (1)](01_Python/01_Python_Basics_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/Lectures/blob/main/01_Python/01_Python_Basics_01.ipynb)
   - 파이썬 기초 문법 
 - [파이썬 기초 (2)](01_Python/01_Python_Basics_02.ipynb)
   - 함수, 모듈, 클래스
