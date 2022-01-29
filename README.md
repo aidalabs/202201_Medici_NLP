@@ -9,7 +9,7 @@
 ### 1일차 (8H)
 - 자연어 처리 개요
 - [파이썬 기초](01_Python/01_Python_Basics_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/01_Python_Basics_01.ipynb)
-- [PyTorch 기초](01_Python/01_Python_Basics_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/01_Python_Basics_01.ipynb)
+- [PyTorch 기초](01_Python/08_PyTorch_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/08_PyTorch_01.ipynb)
 ---
 ### 2일차 (8H)
 - 전처리
