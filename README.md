@@ -8,18 +8,18 @@
 ---
 ### 1일차 (8H)
 - 자연어 처리 개요
-- [파이썬 기초](01_Python/01_Python_Basics_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/01_Python_Basics_01.ipynb)
-- [PyTorch 기초](01_Python/08_PyTorch_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/08_PyTorch_01.ipynb)
+- [파이썬 기초](01_Python_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python_Basics.ipynb)
+- [PyTorch 기초](02_PyTorch_Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/02_PyTorch_Basic.ipynb)
 ---
 ### 2일차 (8H)
-- 전처리
-- 토크나이징
-- 임베딩
+- 전처리(03_Preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/03_Preprocessing.ipynb)
+- 토크나이징(04_Tokenizing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/04_Tokenizing.ipynb)
+- 임베딩(05_Embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/05_Embedding.ipynb)
 ---
 ### 3일차 (8H)
-- 텍스트 유사도
-- RNN 모델
-- Seq2Seq & Attention 모델
+- 텍스트 유사도(06_Text_Similarity.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/06_Text_Similarity.ipynb)
+- RNN 모델(07_RNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/07_RNN.ipynb)
+- Seq2Seq & Attention 모델(08_Seq2Seq.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/08_Seq2Seq.ipynb)
 ---
 ### 4일차 (8H)
 - 언어모델
