@@ -1,4 +1,4 @@
-# **<span style="color:green;">기반 AI를 활용한 빅데이터 분석가 양성 과정: 자연어 처리</span>**
+# <span style="color:green">기반 AI를 활용한 빅데이터 분석가 양성 과정: 자연어 처리</span>
 ---
 ## 1. 자연어 처리 개요
 - [파이썬 기초 (1)](01_Python/01_Python_Basics_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/202201_Medici_NLP/blob/main/01_Python/01_Python_Basics_01.ipynb)
